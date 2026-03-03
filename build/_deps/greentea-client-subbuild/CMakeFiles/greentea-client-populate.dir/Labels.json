@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/choeminhyeog/Desktop/seame/bfmc2026/workspace/Embedded_Platform/build/_deps/greentea-client-subbuild/CMakeFiles/greentea-client-populate"
+		},
+		{
+			"file" : "/Users/choeminhyeog/Desktop/seame/bfmc2026/workspace/Embedded_Platform/build/_deps/greentea-client-subbuild/CMakeFiles/greentea-client-populate.rule"
+		},
+		{
+			"file" : "/Users/choeminhyeog/Desktop/seame/bfmc2026/workspace/Embedded_Platform/build/_deps/greentea-client-subbuild/CMakeFiles/greentea-client-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/choeminhyeog/Desktop/seame/bfmc2026/workspace/Embedded_Platform/build/_deps/greentea-client-subbuild/greentea-client-populate-prefix/src/greentea-client-populate-stamp/greentea-client-populate-build.rule"
+		},
+		{
+			"file" : "/Users/choeminhyeog/Desktop/seame/bfmc2026/workspace/Embedded_Platform/build/_deps/greentea-client-subbuild/greentea-client-populate-prefix/src/greentea-client-populate-stamp/greentea-client-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/choeminhyeog/Desktop/seame/bfmc2026/workspace/Embedded_Platform/build/_deps/greentea-client-subbuild/greentea-client-populate-prefix/src/greentea-client-populate-stamp/greentea-client-populate-download.rule"
+		},
+		{
+			"file" : "/Users/choeminhyeog/Desktop/seame/bfmc2026/workspace/Embedded_Platform/build/_deps/greentea-client-subbuild/greentea-client-populate-prefix/src/greentea-client-populate-stamp/greentea-client-populate-install.rule"
+		},
+		{
+			"file" : "/Users/choeminhyeog/Desktop/seame/bfmc2026/workspace/Embedded_Platform/build/_deps/greentea-client-subbuild/greentea-client-populate-prefix/src/greentea-client-populate-stamp/greentea-client-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/choeminhyeog/Desktop/seame/bfmc2026/workspace/Embedded_Platform/build/_deps/greentea-client-subbuild/greentea-client-populate-prefix/src/greentea-client-populate-stamp/greentea-client-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/choeminhyeog/Desktop/seame/bfmc2026/workspace/Embedded_Platform/build/_deps/greentea-client-subbuild/greentea-client-populate-prefix/src/greentea-client-populate-stamp/greentea-client-populate-test.rule"
+		},
+		{
+			"file" : "/Users/choeminhyeog/Desktop/seame/bfmc2026/workspace/Embedded_Platform/build/_deps/greentea-client-subbuild/greentea-client-populate-prefix/src/greentea-client-populate-stamp/greentea-client-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"greentea-client-populate"
+		],
+		"name" : "greentea-client-populate"
+	}
+}
